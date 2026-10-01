@@ -33,6 +33,9 @@ Desenvolvido em game jam por uma equipe de 4 pessoas: 2 designers e 2 desenvolve
 | Integrante | Função |
 |---|---|
 | **Miguel Victor** ([@Miguel-doVale](https://github.com/Miguel-doVale)) | Desenvolvimento do jogo e integração da arte |
+| **Luis Carlos** ([@LouisCharlles](https://github.com/LouisCharlles)) | Desenvolvimento do jogo e integração da arte |
+| **Luis Eduardo** ([@edu_santossc](https://www.instagram.com/edu_santossc/)) | Designer do jogo e Desenvolvedor da Narrativa |
+| **Giovanna Castro** ([@gipirescastro](https://www.instagram.com/gipirescastro/)) | Designer do jogo e Desenvolvedor da Narrativa |
 <!-- Adicione aqui os demais integrantes, no mesmo formato:
 | **Nome** ([@usuario](https://github.com/usuario)) | Design / Desenvolvimento |
 -->
