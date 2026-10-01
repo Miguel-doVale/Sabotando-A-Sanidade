@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Novo Projeto de Jogo"
+config/name="Sabotando Sanidade"
 run/main_scene="uid://csvq7c3v8awhu"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
